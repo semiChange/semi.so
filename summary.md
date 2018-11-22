@@ -116,7 +116,7 @@ s_upd(s_table, a_f_v, s_where="1")
 // curl request
 // @url    
 // @data
-public function s_curl(s_url, a_data = [])
+s_curl(s_url, a_data = [])
 {
 }
 
