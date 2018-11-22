@@ -1,0 +1,2 @@
+# semi.so
+common library
