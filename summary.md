@@ -121,7 +121,8 @@ s_curl(s_url, a_data = [])
 }
 
 // hex string  , semi:xxxx => xxxx
-// @ string s_msg  , is a hex string
+// string @s_head , is filter head for debug
+// String @s_msg  , is a binary stream
 // return string s_hexres
 s_hexfilter(s_head,s_msg)
 {
