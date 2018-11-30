@@ -136,8 +136,23 @@ s_log(m_msg,s_pathFilename)
 }
 
 
+// for pri and pub generate  2048bit
+s_keygen()
+{
+}
 
+// encrypt string 
+// @s_str string 
+// @s_key string
+s_encrypt(string s_str,string s_key){
+}
 
+// encrypt string 
+// @s_str string 
+// @s_key string
+s_decrypt(s_str,s_key)
+{
+}
 
 
 
@@ -150,8 +165,6 @@ s_log(m_msg,s_pathFilename)
 
 
 ===
-
-
 [baidu](https://www.baidu.com "123")
 
 [lianjie][1]
