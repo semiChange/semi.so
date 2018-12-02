@@ -1,5 +1,5 @@
 # semi.so
 common library
 
-[use](./summary.md)
+[How to use](./summary.md)
 
