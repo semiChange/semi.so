@@ -12,13 +12,13 @@
 ## namespace
 >Semi
 ```c
-new \Semi\Semi();
+Semi\Semi
 ```
 
 ## class  
 >Semi
 ```c
-new \Semi\Semi();
+new \Semi\Semi(s.conf);
 ```
 
 
