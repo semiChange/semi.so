@@ -2,6 +2,7 @@
 |-----------|-----------|
 |semi|wechat:wxsmcg|
 
+#
 `How to use`
 - download semi.so ,put ini load folder eg. /usr/lib64/php/modules
 + modify php.ini add line "extension=semi.so"
