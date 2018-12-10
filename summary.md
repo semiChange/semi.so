@@ -19,7 +19,7 @@ Semi\Semi
 ## class  
 >Semi
 ```c
-new \Semi\Semi(config file);
+new \Semi\Semi(s.conf);
 ```
 
 
