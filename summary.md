@@ -31,7 +31,7 @@ new \Semi\Semi(s.conf);
 ## mothod
 ```c
 // 构造函数
-// @filename  配置文件路径
+// @filename  配置文件路径 , 配置文件必须为标准的json格式, 不要有注释
 // 返回值 无
 __construct(filename)
 {    
