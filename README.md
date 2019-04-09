@@ -1,4 +1,4 @@
 # semi.so
-common library
+common extension library
 
 [How to use](./summary.md)
