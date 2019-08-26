@@ -155,6 +155,28 @@ s_decrypt(s_str,s_key)
 {
 }
 
+// open serial port
+s_s_open( s_device,a_options,s_flag=02 )
+
+// read serial port
+s_s_read(length = 1024)
+
+// write serial port
+s_s_write(data)
+
+// close serial port
+s_s_close()
+
+// zip compress path or file
+s_zip(s_filename,s_pattern="/.+/",s_path=".",array a_options=[])
+
+// get client ip
+s_get_client_ip()
+
+// convert ip to address
+// [eg.] => s_ip2addr('123.123.123.123','ip_data.dat')
+s_ip2addr(ip,ip_data_file)
+                            
 
 
 ```
@@ -167,12 +189,8 @@ s_decrypt(s_str,s_key)
 
 ===
 [Google](https://www.google.com "123")
-
 [Google][1]
-
 [1]:https://www.google.com
-
 - [x] 需求分析
 - [ ] 交付
-
 `biaoji`
