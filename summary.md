@@ -1,3 +1,5 @@
+### 版本已更新, 暂未上传 
+
 |author|contact|
 |-----------|-----------|
 |semi|wechat:wxsmcg|
@@ -186,7 +188,7 @@ s_ip2addr(ip,ip_data_file)
 
 
 
-
+<!--
 ===  
 [Google](https://www.google.com "123")  
 [Google][1]  
@@ -194,3 +196,4 @@ s_ip2addr(ip,ip_data_file)
 - [x] 需求分析  
 - [ ] 交付
 `biaoji`  
+-->
