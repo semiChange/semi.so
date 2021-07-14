@@ -6,8 +6,8 @@
 
 #
 `How to use`
-- download semi.so ,put ini load folder eg. /usr/lib64/php/modules
-+ modify php.ini add line "extension=semi.so"
+- download semi.so|semi.dll ,put ini load folder eg. /usr/lib64/php/modules | %PHP_PATH%/ext
++ modify php.ini add line "extension=semi.so | semi.dll"
 - restart httpd or nginx
 
 
