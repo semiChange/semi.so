@@ -10,7 +10,9 @@
 + modify php.ini add line "extension=semi.so | semi.dll"
 - restart httpd or nginx
 
-
+## 文件说明
+semi_c7p7.so
+扩展名_Centos版本Php版本.so  
 
 ## namespace
 >Semi
